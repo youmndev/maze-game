@@ -1,5 +1,5 @@
 
-#🍭 Endless Maze Game
+🍭 Endless Maze Game
 ##
 -An interactive console-based maze game written in C++.
 
@@ -8,7 +8,7 @@
 
 ##
 🛠 Technologies
-
+##
 -C++
 -Windows Console
 -conio.h
@@ -16,7 +16,7 @@
 
 ##
 ✨ Features
-
+##
 -WASD keyboard controls
 -Interactive console-based movement
 -Emoji-based player and maze
