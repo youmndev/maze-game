@@ -1,5 +1,5 @@
 
-🍭 Endless Maze Game
+#🍭 Endless Maze Game
 ##
 -An interactive console-based maze game written in C++.
 
