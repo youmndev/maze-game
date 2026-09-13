@@ -1,11 +1,7 @@
 
 ## 🍭 Endless Maze Game
 
-An interactive console-based maze game written in C++.
-
-The goal is simple: find your way through the maze and reach the 🏁 finish. Use WASD to move your character through the maze and see how quickly you can escape!
-
-
+An interactive console-based maze game written in C++. The goal is simple: find your way through the maze and reach the 🏁 finish.
 
 
 ## 🛠️ Technologies
@@ -38,6 +34,18 @@ I've been on a mission to make practice the fundamentals of C++, so I thought of
 - Compile the .cpp file with a C++ compiler.
 - Run the program in a UTF-8 compatible Windows terminal.
 - Use W A S D to move.
+
+## How to play
+ Use W A S D to help the player "🫣" reach the **finish line** "🏁" to win. 
+ Where:
+ - W  moves up
+ - A to move left
+ - S to move right
+ - D to move down
+
+   
+
+ف
 
 
 
