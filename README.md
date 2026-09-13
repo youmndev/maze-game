@@ -9,12 +9,12 @@
 
 
 
-🛠 Technologies
-##
--C++
--Windows Console
--conio.h
--windows.h
+## 🛠️ Technologies
+
+- C++
+- Windows Console
+- conio.h
+- windows.h
 
 
 **✨ Features**
