@@ -35,7 +35,7 @@ I've been on a mission to make practice the fundamentals of C++, so I thought of
 - Run the program in a UTF-8 compatible Windows terminal.
 - Use W A S D to move.
 
-## How to play
+## 🎮 How to play
  Use W A S D to help the player "🫣" reach the **finish line** "🏁" to win. 
  Where:
  - W  moves up
