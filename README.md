@@ -38,7 +38,7 @@ I've been on a mission to make practice the fundamentals of C++, so I thought of
 ## 🎮 How to play
  Use W A S D to help the player "🫣" reach the **finish line** "🏁" to win. 
  Where:
- - W  moves up
+ - W to move up
  - A to move left
  - S to move right
  - D to move down
