@@ -9,8 +9,8 @@
 
 
 
-##
 🛠 Technologies
+##
 -C++
 -Windows Console
 -conio.h
