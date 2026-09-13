@@ -8,7 +8,8 @@
 
 
 
-#🛠 Technologies
+
+🛠 Technologies
 ##
 -C++
 -Windows Console
