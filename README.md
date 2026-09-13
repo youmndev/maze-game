@@ -1,7 +1,7 @@
 
 ## 🍭 Endless Maze Game
 
-An interactive console-based maze game written in C++. The goal is simple: find your way through the maze and reach the 🏁 finish.
+An interactive console-based maze game written in C++. The goal is simple: find your way through the maze and escape the maze!.
 
 
 ## 🛠️ Technologies
